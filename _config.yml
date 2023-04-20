@@ -1,0 +1,15 @@
+title: Сайт Обстунатуса
+email: obst.box@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Персональный Блог Ивана Пащенко.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  #twitter_username: jekyllrb
+github_username:  obstbox
+
+# Build settings
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
+plugins:
+  - jekyll-feed
